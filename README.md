@@ -1,9 +1,7 @@
 # MultiAgentProcurementSystem
-Production-ready autonomous agents with distributed decision-making and emergent workflows
+Production-ready autonomous agents with distributed decision-making and emergent workflows that help with procurement process. The agents communicate peer-to-peer, make independent decisions, and coordinate complex business processes without central control. They help with identifying suppliers, verify compliance and assist with negotiating deals.
 
-Autonomous agents that communicate peer-to-peer, make independent decisions, and coordinate complex business processes without central control.
-
-Unlike traditional workflow orchestration, these agents decide *who* to communicate with, *when* to escalate issues, and *how* to recover from failures - all without human programming of specific scenarios.
+Unlike traditional workflow orchestration, these agents decide *who* to communicate with, *when* to escalate issues, and *how* to recover from failures, all without human programming of specific scenarios.
 ```bash
 # See it in action - agents negotiating in real-time
 git clone https://github.com/your-username/multiagent-procurement-system
@@ -13,10 +11,11 @@ streamlit run demo/agentic_demo.py
 ```
 
 **Perfect for:**
-- 🧠 **AI Researchers** studying agent coordination patterns
+
 - 🏗️ **System Architects** evaluating distributed vs centralized approaches  
 - 👩‍💻 **Developers** building multi-agent applications
 - 📊 **Product Teams** understanding autonomous system capabilities
+- 🧠 **AI Researchers** studying agent coordination patterns
 
 ## 🚀 Quick Start
 
