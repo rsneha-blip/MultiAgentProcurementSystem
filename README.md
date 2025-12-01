@@ -809,7 +809,6 @@ async def create_procurement(request: ProcurementRequest):
 
 **Share Your Thoughts:**
 - 🐛 **Issues**: [Report bugs or suggest features](https://github.com/rsneha-blip/MultiAgentProcurementSystem/issues)
-- 💡 **Discussions**: [Architecture questions and use cases](https://github.com/rsneha-blip/MultiAgentProcurementSystem/discussions)
 
 ### 🎓 Use This Project
 
